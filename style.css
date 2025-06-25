@@ -1,3 +1,5 @@
+
+/* Improved Navbar Styling */
 /* Reset and Base Styles */
 * {
     margin: 0;
@@ -11,6 +13,7 @@ body {
 }
 
 /* Navbar */
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -29,12 +32,75 @@ body {
     color: #fff;
     text-decoration: none;
     margin-left: 1.5rem;
+    font-weight: 500;
+
     transition: color 0.3s;
 }
 
 .navbar nav a:hover {
     color: #00b894;
 }
+
+
+/* Body Base Padding */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* General Section Styling */
+section {
+    padding: 4rem 2rem;
+}
+
+/* About Section Layout */
+.about-contents{
+    color: white;
+}
+.about-section {
+    background:url('victor-freitas-WvDYdXDzkhs-unsplash.jpg') no-repeat center center/cover;
+    color: #333;
+    text-align: center;
+}
+
+.about-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #00b894;
+}
+
+.about-section p {
+    max-width: 800px;
+    margin: 0 auto 2rem auto;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.about-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.about-item {
+    background: #f4f4f4;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.about-item h3 {
+    color: #00b894;
+    margin-bottom: 1rem;
+}
+
+.about-item p {
+    font-size: 1rem;
+    line-height: 1.5;
 
 /* Hero Section with Background Image */
 .hero {
