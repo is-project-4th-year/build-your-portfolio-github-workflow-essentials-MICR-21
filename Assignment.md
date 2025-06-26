@@ -2,67 +2,77 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **Admission Number**:
-- **GitHub Username**:
-- **Email**:
+- **Maina Charles Gacari**:
+- **145404**:
+- **MICR_21**:
+- **charles.gacar@strathmore.edu**:
 
 ## 2. Deployed Portfolio Link
 
-- **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+- **https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-MICR-21/**
 
 ## 3. Learnings from the Git Crash Program
 
-**What I Thought I'd Learn vs What I Actually Learned**
+### 1. Project Boards
 
-Write about **4 things** you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
-For each one, tell us:
+- Expectation : I didnt think one needed a project board to code work in teams.
 
-What you thought it would be like `(Expectation 👀)`
+- Reality: In reality it serves a visual representation of a to do list that helps in tracking one's progress. Also moving from to-do to done and vide versa was also a bit satisfying.
 
-What you actually learned `(Reality 😅)`
+- Impact: Helped in organisation and clear movements of tasks from one checklist to the next.
 
-And how it helped with your personal portfolio project 💻
+### 2. Git Branching
 
-**Example format:**
+- Expectation: I didnt expect us to create a branch for each new feature one would add. I just thought we would us the common branches e.g test and i thought it would be a bit hard to manage.
 
-`Concept: GitHub Project Boards`
+- Reality:Creating branches for each section e.g landing page, feature section was very straightforward and it did make my work tree clean.
 
-`Expectation 👀`: Looked like a complicated tool only teams use.
+- Impact: Branching allowed me to work on different parts of the project without messing up the main portfolio.
 
-`Reality 😅`: It’s actually a visual to-do list! Dragging my tasks from “To do” to “Done” felt so satisfying.
+### 3. Pull Requests
 
-`Impact 💡`: Helped me stay organized and track my progress on the portfolio, especially when I had lots of sections to build.
+- Expectation: I assumed pull requests were only for big open-source projects with many contributors.
 
+- Reality: Even for my small project, Pull Requests made it easy to review changes and link them to specific issues.
+
+- Impact: It improved my workflow, ensured issues were properly closed, and kept my commits structured.
+
+### 4. Merge Conflict Resolution
+
+- Expectation: I thought resolving merge conflicts would be stressful and very technical.
+
+- Reality: With guidance, it was manageable. The key is understanding the conflict markers and carefully choosing the correct code.
+
+- Impact: Gave me confidence to handle version control issues and kept my project stable even after conflicts.
 
 ## 4. Screenshots of Key GitHub Features
 
-Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
-
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
-
-```markdown
-![Caption](path/to/your/image.png)
-```
-
 ### A. Milestones and Issues
 
-- Screenshot showing your milestone(s) and the issues linked to it.
+![milestones](screenshots/milestones.png) Image above shows the various issues I had created as well as their completions.
+
+![issues](screenshots/issues.png) shows the issues i created and linked them to the different milestones I had created for a specific issue.
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+![ projectboard1](screenshots/project.png) Image above  shows my the simple overview of my project board.
+
+![ projectbaorddetail](<screenshots/project detail.png>) Image above shows my project board in detail with the issues that are in the to-do, progress and done section.
 
 ### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
+![ branch](screenshots/branching.png) Image above shows one of the branches I made for the about section and that is where I implemented the code for the about issue.
 
 ### D. Pull Requests
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+![pullrequest](screenshots/pullrequest.png) Image above  shows the pull request that is related to issue # 10 as being resolved.
+
+![closedpull](<Screenshot 2025-06-26 203216.png>) Image above  shows the pull requests that have been closed and are linked to the issues.
+
+![pullrequest full](image-3.png) Image above shows the whole merged pull request with the isssues linked, the project is also linked
 
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+![merge conflict ](screenshots/conflict.png) Image above shows that there was  a merge conflict between the feature branch and my main branch and it arose because of the css stylesheet.
+
+![mergerequest](<screenshots/merge request.png>) Image above  shows how i was able to merge the conflict and get no more conflicts. After resolving the conflicts I was able to merge to main.
