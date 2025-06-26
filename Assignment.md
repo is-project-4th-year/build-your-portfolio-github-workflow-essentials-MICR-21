@@ -51,7 +51,7 @@
 
 ![milestones](screenshots/milestones.png) Image above shows the various issues I had created as well as their completions.
 
-![issues](screenshots/issues.png) shows the issues i created and linked them to the different milestones I had created for a specific issue.
+![issues](screenshots/issues.png) Image above shows the issues i created and linked them to the different milestones I had created for a specific issue.
 
 ### B. Project Board
 
