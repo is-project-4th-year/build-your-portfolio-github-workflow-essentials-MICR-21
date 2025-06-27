@@ -2,9 +2,9 @@
 
 ## 1. Student Details
 
-- **Maina Charles Gacari**:
-- **145404**:
-- **MICR_21**:
+- **Maina Charles Gacari**
+- **145404**
+- **MICR_21**
 - **charles.gacar@strathmore.edu**
 
 ## 2. Deployed Portfolio Link
