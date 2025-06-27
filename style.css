@@ -9,7 +9,7 @@
 
 body {
     font-family: 'Segoe UI', sans-serif;
-    color: #fff;
+    color: #ffF;
 }
 
 /* Navbar */
@@ -160,4 +160,5 @@ section {
     .hero p {
         font-size: 1rem;
     }
+}
 }
