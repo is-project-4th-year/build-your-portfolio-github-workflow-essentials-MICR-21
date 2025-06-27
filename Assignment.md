@@ -5,7 +5,7 @@
 - **Maina Charles Gacari**:
 - **145404**:
 - **MICR_21**:
-- **charles.gacar@strathmore.edu**:
+- **charles.gacar@strathmore.edu**
 
 ## 2. Deployed Portfolio Link
 
